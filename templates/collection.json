@@ -20,7 +20,7 @@
     "custom_liquid_Dykkgh": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div>カスタムリキッド<\/div>\n<div>タイトル：{{ collection.title }}<\/div>\n<div>メタオブジェクト01：{{ collection.metafields.custom.obj.value.name\n }}<\/div>\n<div>メタオブジェクト02：{{ collection.metafields.custom.obj.value.name\n }}<\/div>",
+        "custom_liquid": "<div>カスタムリキッド<\/div>\n<div>タイトル：{{ collection.title }}<\/div>\n<div>メタオブジェクト01：{{ collection.metafields.custom.obj.value.name\n }}<\/div>\n<div>メタオブジェクト02：{{ collection.metafields.custom.obj.value.category.value.name\n }}<\/div>",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52

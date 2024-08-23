@@ -20,7 +20,7 @@
     "custom_liquid_Dykkgh": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div>カスタムリキッド<\/div>\n<div>{{ collection.name }}<\/div>",
+        "custom_liquid": "<div>カスタムリキッド<\/div>\n<div>タイトル：{{ collection.title }}<\/div>",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
